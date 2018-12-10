@@ -2,6 +2,8 @@ variable "key" {
   type = "string"
 }
 
+variable "aNewVar" {}
+
 variable "images" {
   type = "map"
 
